@@ -1,0 +1,17 @@
+{
+  "network": "testnet-bradbury",
+  "chainId": 4221,
+  "sender": "0x4604a582B66431481D5320fed67C785bdb4D7Fe0",
+  "sdk": "genlayer-js@1.1.8",
+  "project": "grant-dedup",
+  "source": "contract.py",
+  "sourceSha256": "198cd800d2f3eaf73ff6c117e4b9c1324348d0dbaa0606e7469ca5d0631be54a",
+  "txId": "0x608e021d4e33147a1e926416ee074c31384ccc122d4abdf4abbb9cd0f0ed8f57",
+  "observedStatus": "ACCEPTED",
+  "observedAt": "2026-09-27T16:19:02.498Z",
+  "executionResult": "FINISHED_WITH_RETURN",
+  "recipient": "0xD35CE1e19977e644Ca47E30281927E0c8433d0c7",
+  "evidence": "consensus-record-and-matching-source",
+  "finalityVerified": false,
+  "note": "Transaction existence was verified. Successful deployment and finality are not asserted."
+}

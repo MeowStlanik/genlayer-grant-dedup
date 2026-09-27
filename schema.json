@@ -1,0 +1,64 @@
+{
+  "ctor": {
+    "kwparams": {},
+    "params": []
+  },
+  "methods": {
+    "count": {
+      "kwparams": {},
+      "params": [],
+      "readonly": true,
+      "ret": "int"
+    },
+    "enroll": {
+      "kwparams": {},
+      "params": [
+        [
+          "applicant",
+          "address"
+        ],
+        [
+          "proposal",
+          "string"
+        ]
+      ],
+      "payable": false,
+      "readonly": false,
+      "ret": "any"
+    },
+    "get_entry": {
+      "kwparams": {},
+      "params": [
+        [
+          "entry_id",
+          "int"
+        ]
+      ],
+      "readonly": true,
+      "ret": "string"
+    },
+    "get_review": {
+      "kwparams": {},
+      "params": [
+        [
+          "entry_id",
+          "int"
+        ]
+      ],
+      "readonly": true,
+      "ret": "string"
+    },
+    "review": {
+      "kwparams": {},
+      "params": [
+        [
+          "entry_id",
+          "int"
+        ]
+      ],
+      "payable": false,
+      "readonly": false,
+      "ret": "any"
+    }
+  }
+}
